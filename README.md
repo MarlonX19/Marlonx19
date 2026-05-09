@@ -10,7 +10,7 @@
 
 <p>
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently working with **Javascript**, **Node** and **Web Frameworks**
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="30" height="20"> Currently working with **Javascript**, **Node**, **Bun** and **Web Frameworks**
 
 </p>
 <hr>
